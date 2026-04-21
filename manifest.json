@@ -5,6 +5,6 @@
   "minAppVersion": "1.0.0",
   "description": "Spaced repetition natively bridged to your vault. Generate flashcards automatically via Gemini AI or use inline QA tags.",
   "author": "twistin",
-  "authorUrl": "https://github.com/sdcarr",
+  "authorUrl": "https://github.com/twistin",
   "isDesktopOnly": false
 }
